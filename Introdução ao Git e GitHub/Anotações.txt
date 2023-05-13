@@ -1,0 +1,5 @@
+Link para download do git:
+https://git-scm.com/downloads
+
+O Git Bash é um aplicativo para ambiente Windows que oferece a camada de emulação
+para experiência em linhas de comando Git. 
